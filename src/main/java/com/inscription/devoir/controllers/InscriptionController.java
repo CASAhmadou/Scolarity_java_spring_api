@@ -77,6 +77,7 @@ public class InscriptionController {
         }catch (Exception e){
             throw new InscriptionException("Erreur:"+e);
         }
+        
     }
 
 
